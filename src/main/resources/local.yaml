@@ -5,7 +5,7 @@ anypoint:
   password: "MuleMax2021"
   
 cloudhub:
-  environment: "sandbox"
+  environment: "Sandbox"
   app: "helloWorld2023"
   bg: "SelfTaught"
   worker: "Micro"
