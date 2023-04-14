@@ -1,0 +1,9 @@
+anypoint:
+  username: "DevMax"
+  password: "MuleMax2021"
+  
+cloudhub:
+  environment: "sandbox"
+  app: "helloWorld2023"
+  bg: "SelfTaught"
+  worker: "Micro"
