@@ -1,3 +1,5 @@
+mule:
+  version: "4.4.0"
 anypoint:
   username: "DevMax"
   password: "MuleMax2021"
